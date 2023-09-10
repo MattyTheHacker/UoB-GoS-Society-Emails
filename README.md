@@ -1,1 +1,1 @@
-"# UoB-GoS-Society-Emails" 
+# UoB-GoS-Society-Emails
